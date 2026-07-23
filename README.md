@@ -3,7 +3,7 @@
 * 🌱 Currently learning Full Stack Web Development
 * 💻 Working with HTML, CSS, JavaScript, React, and Node.js
 * 🚀 Building projects using MERN Stack
-* 🤖 Interested in AI and real-time applications
+* 🤖 Interested in real-time applications
 * 📫 Always eager to learn and collaborate
 
 ## 📬 Reach Me Through
